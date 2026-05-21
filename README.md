@@ -1,16 +1,19 @@
-## This is a self reset password project presented by Arjun, DipRaj, Nimoh and Saurya  👋
+# College Password Reset System
 
-<!--
-**selfpasswordreset/selfpasswordreset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A full-stack web application built for [College Name] enabling 
+students and teachers to securely reset their credentials.
 
-Here are some ideas to get you started:
+## Tech Stack
+- ReactJS
+- Node.js / Express
+- Azure (cloud deployment)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Features
+- Secure token-based password reset
+- Form validation
+- Email verification
+- Deployed on Microsoft Azure for live institutional use
+
+## Screenshots
+
+## Note
